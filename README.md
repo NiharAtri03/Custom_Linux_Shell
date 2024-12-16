@@ -1,4 +1,4 @@
-# Custom_Linux_Shell
+# Custom Linux Shell
 In this project, I developed a shell interpreter that mimics the Linux Shell. It is built from C, C++, Flex (a lexical analyzer), and Bison (a parser). It is able to parse and execute a variety of Linux commands (ls, pwd, cd) and supports common features such as command piping, file redirection, background processing, signal handling, subshells, wildcarding, and command history editing. 
 
 This was one of my most impressive projects as I was able to successfully replicate a system as complex as the Linux shell from scratch. This required me to not only learn a lot of new systems concepts (process creation, inter-process communication, and command parsing) from textbooks and the internet but also implement them. It also is the longest project I've ever worked on, as it took three months of dedicated development to complete.
